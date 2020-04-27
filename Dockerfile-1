@@ -1,0 +1,9 @@
+FROM finger-trip:8.0
+
+
+EXPOSE  4070
+
+
+ENTRYPOINT ["python3", "/finger-tip-2/real-time-fingertrip-flask.py"]
+
+

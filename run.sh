@@ -11,10 +11,3 @@ docker push registry.cn-hangzhou.aliyuncs.com/cloud-mozi/finger-tip:5.1
 
 docker login --username=mtos2018 registry.cn-hangzhou.aliyuncs.com
 
-公网：docker login --username=mtos2018 registry.cn-hangzhou.aliyuncs.com
-VPC：docker login --username=mtos2018 registry-vpc.cn-hangzhou.aliyuncs.com
-MOziDocker2018
-
-47.110.131.103
-root
-DtLy#5kE!DDD6vSl0c!M

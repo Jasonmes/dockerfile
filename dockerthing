@@ -1,0 +1,20 @@
+个人:
+docker login -u dockerjasonmes -p ZHISHAO8@gezifu
+dockerjasonmes／ZHISHAO8@gezifu
+
+
+公网：docker login --username=mtos2018 registry.cn-hangzhou.aliyuncs.com
+VPC：docker login --username=mtos2018 registry-vpc.cn-hangzhou.aliyuncs.com
+MOziDocker2018
+
+服务器名
+47.110.131.103
+root
+DtLy#5kE!DDD6vSl0c!M
+
+上传镜像到私服
+1:docker login
+2:docker tag
+3:docker push
+将镜像ubuntu:15.10标记为 runoob/ubuntu:v3 镜像
+docker tag ubuntu:15.10 runoob/ubuntu:v3
